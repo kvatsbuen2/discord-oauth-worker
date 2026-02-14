@@ -1,5 +1,6 @@
 name = "auth"
 account_id = "67056a4a1b6415e838230d16b71ec5f0"
+compatibility_date = "2026-02-14"
 
 main = "index.js"
 
