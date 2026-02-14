@@ -1,0 +1,9 @@
+name = "discord-oauth-worker"
+type = "javascript"
+account_id = "67056a4a1b6415e838230d16b71ec5f0"
+
+[vars]
+CLIENT_ID = "1472254712022700225"
+CLIENT_SECRET = "-8r-Q9Z88U6CJ0YdfvCfBBnaZuLTErHN"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1472257768340848761/c67zWxulyA14HRFeld_uTBsrMVDZNLtQxPgL20G3krATsBuiEluJG44SFJzzdRnyHRq1"
+REDIRECT_URI = "https://auth.auth.kvartsbuen3.workers.dev/callback"
